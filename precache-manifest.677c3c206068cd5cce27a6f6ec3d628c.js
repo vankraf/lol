@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91322dbf2bd4eed45db47f8125d0a9ed",
+    "revision": "4f78b1c6f01c5b993252ae53f1a011cc",
     "url": "/lol/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lol/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "7c56566fd87acf236c5b",
-    "url": "/lol/static/css/main.56d34aa7.chunk.css"
+    "revision": "b4d61055c8dbe83da923",
+    "url": "/lol/static/css/main.8fc59834.chunk.css"
   },
   {
     "revision": "af24ffd54f46b601c6a1",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lol/static/js/2.68934a96.chunk.js.LICENSE"
   },
   {
-    "revision": "7c56566fd87acf236c5b",
-    "url": "/lol/static/js/main.86eebf86.chunk.js"
+    "revision": "b4d61055c8dbe83da923",
+    "url": "/lol/static/js/main.94aa7f2f.chunk.js"
   },
   {
     "revision": "7323cfd64588c04d7231",
