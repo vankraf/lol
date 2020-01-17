@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/lol/static/css/main.b7dc37d9.chunk.css",
-    "main.js": "/lol/static/js/main.4dac2318.chunk.js",
-    "main.js.map": "/lol/static/js/main.4dac2318.chunk.js.map",
+    "main.js": "/lol/static/js/main.0b644f51.chunk.js",
+    "main.js.map": "/lol/static/js/main.0b644f51.chunk.js.map",
     "runtime-main.js": "/lol/static/js/runtime-main.2597b635.js",
     "runtime-main.js.map": "/lol/static/js/runtime-main.2597b635.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/lol/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.7beecf66.chunk.js": "/lol/static/js/2.7beecf66.chunk.js",
     "static/js/2.7beecf66.chunk.js.map": "/lol/static/js/2.7beecf66.chunk.js.map",
     "index.html": "/lol/index.html",
-    "precache-manifest.f8e6404e0882f2702b0621b748cd8da4.js": "/lol/precache-manifest.f8e6404e0882f2702b0621b748cd8da4.js",
+    "precache-manifest.68b8e0423dfc30d5161893c8c131ec83.js": "/lol/precache-manifest.68b8e0423dfc30d5161893c8c131ec83.js",
     "service-worker.js": "/lol/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/lol/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.b7dc37d9.chunk.css.map": "/lol/static/css/main.b7dc37d9.chunk.css.map",
     "static/js/2.7beecf66.chunk.js.LICENSE": "/lol/static/js/2.7beecf66.chunk.js.LICENSE",
     "static/media/app_test.png": "/lol/static/media/app_test.eb004de1.png",
-    "static/media/floor1.png": "/lol/static/media/floor1.2defcf87.png",
+    "static/media/floor1.png": "/lol/static/media/floor1.e7808576.png",
     "static/media/persik.png": "/lol/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
@@ -23,6 +23,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.7beecf66.chunk.js",
     "static/css/main.b7dc37d9.chunk.css",
-    "static/js/main.4dac2318.chunk.js"
+    "static/js/main.0b644f51.chunk.js"
   ]
 }
