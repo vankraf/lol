@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lol/static/css/main.3c149052.chunk.css",
-    "main.js": "/lol/static/js/main.4c1c1efa.chunk.js",
-    "main.js.map": "/lol/static/js/main.4c1c1efa.chunk.js.map",
+    "main.js": "/lol/static/js/main.af2b348d.chunk.js",
+    "main.js.map": "/lol/static/js/main.af2b348d.chunk.js.map",
     "runtime-main.js": "/lol/static/js/runtime-main.2597b635.js",
     "runtime-main.js.map": "/lol/static/js/runtime-main.2597b635.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/lol/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.712c45e0.chunk.js": "/lol/static/js/2.712c45e0.chunk.js",
     "static/js/2.712c45e0.chunk.js.map": "/lol/static/js/2.712c45e0.chunk.js.map",
     "index.html": "/lol/index.html",
-    "precache-manifest.a9e620cb88d373927f2118d11b3ed095.js": "/lol/precache-manifest.a9e620cb88d373927f2118d11b3ed095.js",
+    "precache-manifest.ab863731c63dfb2a1cbf8cfc704534c6.js": "/lol/precache-manifest.ab863731c63dfb2a1cbf8cfc704534c6.js",
     "service-worker.js": "/lol/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/lol/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.3c149052.chunk.css.map": "/lol/static/css/main.3c149052.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.712c45e0.chunk.js",
     "static/css/main.3c149052.chunk.css",
-    "static/js/main.4c1c1efa.chunk.js"
+    "static/js/main.af2b348d.chunk.js"
   ]
 }
