@@ -21,13 +21,18 @@ const Home = ({ id, go, fetchedUser }) => (
 			</Cell>
 		</Group>}
 
-		<Group title="Максим">
+		<Group title="Cooler">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Это почти работает
+					button
 				</Button>
 			</Div>
-		</Group>
+		</Group
+		<Group>
+      			<Div>
+        			text
+      			</Div>
+   		</Group>
 	</Panel>
 );
 
