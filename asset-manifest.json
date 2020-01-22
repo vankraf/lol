@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/lol/static/css/main.3c149052.chunk.css",
-    "main.js": "/lol/static/js/main.2555ccd2.chunk.js",
-    "main.js.map": "/lol/static/js/main.2555ccd2.chunk.js.map",
+    "main.css": "/lol/static/css/main.08b2da47.chunk.css",
+    "main.js": "/lol/static/js/main.2dc2234b.chunk.js",
+    "main.js.map": "/lol/static/js/main.2dc2234b.chunk.js.map",
     "runtime-main.js": "/lol/static/js/runtime-main.2597b635.js",
     "runtime-main.js.map": "/lol/static/js/runtime-main.2597b635.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/lol/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.712c45e0.chunk.js": "/lol/static/js/2.712c45e0.chunk.js",
-    "static/js/2.712c45e0.chunk.js.map": "/lol/static/js/2.712c45e0.chunk.js.map",
+    "static/js/2.5cbcc3be.chunk.js": "/lol/static/js/2.5cbcc3be.chunk.js",
+    "static/js/2.5cbcc3be.chunk.js.map": "/lol/static/js/2.5cbcc3be.chunk.js.map",
     "index.html": "/lol/index.html",
-    "precache-manifest.87a037c3bd39cd3fe8539ad6df838a96.js": "/lol/precache-manifest.87a037c3bd39cd3fe8539ad6df838a96.js",
+    "precache-manifest.a1906804c97d973f74ef7544b16ec3a0.js": "/lol/precache-manifest.a1906804c97d973f74ef7544b16ec3a0.js",
     "service-worker.js": "/lol/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/lol/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.3c149052.chunk.css.map": "/lol/static/css/main.3c149052.chunk.css.map",
-    "static/js/2.712c45e0.chunk.js.LICENSE": "/lol/static/js/2.712c45e0.chunk.js.LICENSE",
+    "static/css/main.08b2da47.chunk.css.map": "/lol/static/css/main.08b2da47.chunk.css.map",
+    "static/js/2.5cbcc3be.chunk.js.LICENSE": "/lol/static/js/2.5cbcc3be.chunk.js.LICENSE",
     "static/media/app_test.png": "/lol/static/media/app_test.eb004de1.png",
     "static/media/floor1.png": "/lol/static/media/floor1.5d83ae83.png",
     "static/media/floor1.svg": "/lol/static/media/floor1.6d15d9af.svg",
-    "static/media/persik.png": "/lol/static/media/persik.4e1ec840.png"
+    "static/media/persik.png": "/lol/static/media/persik.eb004de1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2597b635.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.712c45e0.chunk.js",
-    "static/css/main.3c149052.chunk.css",
-    "static/js/main.2555ccd2.chunk.js"
+    "static/js/2.5cbcc3be.chunk.js",
+    "static/css/main.08b2da47.chunk.css",
+    "static/js/main.2dc2234b.chunk.js"
   ]
 }
